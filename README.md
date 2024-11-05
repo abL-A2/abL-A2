@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abL-A2
+- 👋 Hi
 - 👀 I’m interested in learning stuff.
 - 🌱 I’m currently studying with Mission Ready.
 - 💞️ I’m looking to collaborate on class projects.
